@@ -17,7 +17,7 @@
 - [Week 4](https://github.com/ElizaLo/Software-Development-Lifecycle/tree/master/Software%20Development%20Processes%20and%20Methodologies/Week%204)
   - Software Development Models: Agile and Lean
   
- ## 2. Agile Software Development
+## 2. Agile Software Development
   
  - [Week 1](https://github.com/ElizaLo/Software-Development-Lifecycle/tree/master/Agile%20Software%20Development/Week%201)
     - Agile Fundamentals
