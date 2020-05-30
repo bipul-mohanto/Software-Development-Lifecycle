@@ -24,6 +24,6 @@
  - [Week 2](https://github.com/ElizaLo/Software-Development-Lifecycle/tree/master/Agile%20Software%20Development/Week%202)
     - Requirements and Planning
  - [Week 3](https://github.com/ElizaLo/Software-Development-Lifecycle/tree/master/Agile%20Software%20Development/Week%203)
-  - Scrum
+    - Scrum
 - [Week 4](https://github.com/ElizaLo/Software-Development-Lifecycle/tree/master/Agile%20Software%20Development/Week%204)
-  - XP and Course Wrap-up
+    - XP and Course Wrap-up
